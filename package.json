@@ -1,0 +1,17 @@
+{
+  "name": "accoutrement-eyeglass",
+  "version": "1.0.0",
+  "description": "Playground for accoutrement and eyeglass",
+  "repository": "https://github.com/jgerigmeyer/accoutrement-eyeglass.git",
+  "author": "Jonny Gerig Meyer <jonny@oddbird.net>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "accoutrement-init": "^1.1.3",
+    "eyeglass": "^1.5.0",
+    "node-sass": "^4.9.2"
+  },
+  "scripts": {
+    "sass": "node index.js"
+  }
+}
